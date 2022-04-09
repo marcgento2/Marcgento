@@ -1,0 +1,4 @@
+# Prácticas del curso de Magento 2
+En esta sección se encuentra el código fuente revisado en cada capítulo del curso de Magento 2, lo que he intentado en los videos es no mostrar el paso a paso de la codificación, así que lo he acelerado, todas esas secciones para que la enseñanza sea lo más rápida que se pueda, claro que lo que te recomiendo es que si necesitas ir revisando el código lo puedas hacer con calma a tu ritmo al final tendrás esta sección donde estará todo el código fuente resultado del ejercicio para que puedas descargarlo y compararlo con tu contenido.
+# ModuloBasico Marcgento curso Magento
+Mediante este módulo podrás entender la construcción de un módulo básico creado en Magento, recuerda que siempre debe existir una carpeta dentro de ***app/code*** con el nombre de tu **Namespace** en este caso para el ejercicio se llama Marcgento, que si decides cambiarlo puedes hacerlo solo no olvidando que los archivos y clases deberás actualizarlos también.
