@@ -18,14 +18,5 @@
             action="marcgentoadmin/index/"
             resource="Marcgento_ModuloBasico::index"
         />
-        <add
-            id="Marcgento_ModuloBasico::subscription"
-            title="Subscription"
-            module="Marcgento_ModuloBasico"
-            sortOrder="52"
-            parent="Marcgento_ModuloBasico::marcgentobackend"
-            action="marcgentoadmin/subscription/"
-            resource="Marcgento_ModuloBasico::subscription"
-        />
     </menu>
 </config>
