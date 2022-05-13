@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <update handle="styles" />
+    <body>
+        <referenceContainer name="content">
+            <!-- <block class="Marcgento\ModuloBasico\Block\Adminhtml\Subscription" name="adminhtml.block.marcgentobackend.subscription.grid" /> -->
+            <uiComponent name="marcgento_modulobasico_subscription_listing" />
+        </referenceContainer>
+    </body>
+</page>
